@@ -1,0 +1,25 @@
+_repo: O-Oraculo-do-Passado-do-presente-e-do-Futuro--7-7---13-Parte-Setima--O-oraculo-dos-Astros_31742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Serrano, Bento
+    gutenberg_agent_id: '32566'
+    url: http://www.gutenberg.org/2009/agents/32566
+description: ''
+gutenberg_issued: '2010-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31742'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Divination'
+title: "O Oraculo do Passado, do presente e do Futuro (7/7)\r\nParte Setima: O oraculo\
+  \ dos Astros"
+url: http://www.gutenberg.org/ebooks/31742
